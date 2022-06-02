@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629404289 source:d:\gustavo\sistemas de informação\algoritmos\3º semestre\prova 2\ex02\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+
